@@ -34,4 +34,5 @@ using System;
             }
             Console.WriteLine("[{0}]", string.Join(", ", inputArray));
         }
+    }
 }
